@@ -2,7 +2,7 @@
 
 # rikamuss
 
-**Cybersecurity Student | Network Security & Perimeter Defense**
+**Cybersecurity Student**
 
 </div>
 
