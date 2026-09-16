@@ -40,8 +40,9 @@ Perimeter security implementation in a virtualized environment, integrating fire
 ---
 
 ### [Asiscontrol](https://github.com/rikamuss/Asiscontrol)
-Application built with TypeScript.
+Attendance control system combining an ESP32 device with RFID card reading and a real-time web dashboard, using Supabase as the backend database.
 
+**Focus areas:** RFID-based attendance tracking · ESP32 firmware · real-time data sync · attendance history & reporting
 <br>
 
 ## Currently
