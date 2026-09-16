@@ -1,14 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-**rikamuss/rikamuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# rikamuss
 
-Here are some ideas to get you started:
+**Cybersecurity Student | Network Security & Perimeter Defense**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
+
+<br>
+
+## About
+
+Cybersecurity student focused on network security, with hands-on experience designing and hardening perimeter defenses in virtualized environments. My work combines firewall policy design, intrusion detection/prevention, and application-layer control — with a growing interest in offensive security to better understand and anticipate the threats these defenses are built to stop.
+
+<br>
+
+## Skills
+
+**Network Security**
+`Firewall Configuration` `IDS/IPS (Suricata)` `Application Control (Zenarmor)` `Network Segmentation` `Traffic Analysis`
+
+**Tools & Platforms**
+`OPNsense` `Wireshark` `Kali Linux` `Linux Administration`
+
+**Development**
+`Python` `TypeScript`
+
+**Version Control**
+`Git` `GitHub`
+
+<br>
+
+## Featured Projects
+
+### [PerimeterSecurity-with-OPNsense](https://github.com/rikamuss/PerimeterSecurity-with-OPNsense)
+Perimeter security implementation in a virtualized environment, integrating firewall policies, IDS/IPS with Suricata, and application control with Zenarmor, alongside multiple additional security plugins.
+
+**Focus areas:** firewall policy design · intrusion detection/prevention · application-layer visibility and control
+
+---
+
+### [Asiscontrol](https://github.com/rikamuss/Asiscontrol)
+Application built with TypeScript.
+
+<br>
+
+## Currently
+
+- 📖 Deepening my knowledge of offensive security fundamentals (reconnaissance, vulnerability analysis, exploitation)
+- 🔧 Expanding my portfolio with practical, documented projects
+
+<br>
+
