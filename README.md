@@ -1,6 +1,6 @@
 <div align="center">
 
-# rikamuss
+# Ricardo Diaz
 
 **Cybersecurity Student**
 
