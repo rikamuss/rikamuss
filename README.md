@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ricardo Diaz
+# Ricardo Díaz
 
 **Cybersecurity Student**
 
